@@ -1,4 +1,7 @@
-# test coverage for  [gulp-svg-symbols (v2.0.2)](https://github.com/Hiswe/gulp-svg-symbols)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-svg-symbols.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-svg-symbols) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-svg-symbols.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-svg-symbols)
+# npmtest-gulp-svg-symbols
+
+#### test coverage for  [gulp-svg-symbols (v2.0.2)](https://github.com/Hiswe/gulp-svg-symbols)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-svg-symbols.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-svg-symbols) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-svg-symbols.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-svg-symbols)
+
 #### Convert SVG files to symbols with gulp
 
 [![NPM](https://nodei.co/npm/gulp-svg-symbols.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-svg-symbols)
