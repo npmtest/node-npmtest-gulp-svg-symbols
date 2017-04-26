@@ -1,6 +1,6 @@
 # npmtest-gulp-svg-symbols
 
-#### test coverage for  [gulp-svg-symbols (v2.0.2)](https://github.com/Hiswe/gulp-svg-symbols)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-svg-symbols.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-svg-symbols) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-svg-symbols.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-svg-symbols)
+#### basic test coverage for  [gulp-svg-symbols (v2.0.2)](https://github.com/Hiswe/gulp-svg-symbols)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-svg-symbols.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-svg-symbols) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-svg-symbols.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-svg-symbols)
 
 #### Convert SVG files to symbols with gulp
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-svg-symbols/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-svg-symbols/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-svg-symbols/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-svg-symbols/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-svg-symbols/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-svg-symbols/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-svg-symbols/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-svg-symbols/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-svg-symbols/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-svg-symbols/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-svg-symbols/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-svg-symbols/build/coverage.html/index.html)
 
@@ -92,7 +92,8 @@
         "hint": "gulp hint",
         "test": "gulp test"
     },
-    "version": "2.0.2"
+    "version": "2.0.2",
+    "bin": {}
 }
 ```
 
